@@ -42,10 +42,6 @@ Kali Secure Notepad is a sophisticated application designed for note-taking with
 
 For a comprehensive guide on all features and functionalities, refer to the User Manual section in the project documentation.
 
-## Contributing
-
-We welcome contributions! Please see the CONTRIBUTING.md file for guidelines on how to contribute to the Kali Secure Notepad project.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -53,7 +49,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 
 - Dr. S. Venkatalakshmi, for guidance and supervision.
-- Loyola College (Autonomous), Chennai, for the support and resources.
+- [Loyola College (Autonomous), Chennai](https://www.loyolacollege.edu/), for the support and resources.
 - The Python and Kali Linux communities for their invaluable resources and tools.
 
 For more information, support, and detailed documentation, please visit our [project homepage](https://22pcs017.wixsite.com/securenotepad).
