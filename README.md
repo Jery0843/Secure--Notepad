@@ -13,7 +13,7 @@ Kali Secure Notepad is a sophisticated application designed for note-taking with
 
 #### Downloading the Executable
 
-1. Visit the Secure Notepad download page at [https://securednotepad.azurewebsites.net/](https://securednotepad.azurewebsites.net/).
+1. Visit the Secure Notepad download page at [https://22pcs017.wixsite.com/securenotepad](https://22pcs017.wixsite.com/securenotepad).
 2. Click on the "Download Secure Notepad" button and select the appropriate OS version to begin the download.
 3. Save the `Secure_Notepad.exe` (for Windows) or `Secure_Notepad.deb` (for Linux) file to your computer.
 
@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Loyola College (Autonomous), Chennai, for the support and resources.
 - The Python and Kali Linux communities for their invaluable resources and tools.
 
-For more information, support, and detailed documentation, please visit our [project homepage]((https://22pcs017.wixsite.com/securenotepad)https://22pcs017.wixsite.com/securenotepad).
+For more information, support, and detailed documentation, please visit our [project homepage](https://22pcs017.wixsite.com/securenotepad).
