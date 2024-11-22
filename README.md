@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Loyola College (Autonomous), Chennai](https://www.loyolacollege.edu/), for the support and resources.
 - The Python and Kali Linux communities for their invaluable resources and tools.
 
-For more information, support, and detailed documentation, please visit our [project homepage](https://22pcs017.wixsite.com/securenotepad).
+For more information, support, and detailed documentation, please visit our [project homepage](https:securenotepad.tech).
